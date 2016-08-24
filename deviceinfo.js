@@ -1,7 +1,3 @@
-/**
- * @providesModule react-native-device-info
- */
-
 var RNDeviceInfo = require('react-native').NativeModules.RNDeviceInfo;
 
 module.exports = {
